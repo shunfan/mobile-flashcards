@@ -1,6 +1,6 @@
 # Mobile Flashcards
 
-Mobile Flash Cards is implemented using React Native.
+Mobile Flash Cards is a mobile application implemented using React Native.
 
 ## Installation
 
